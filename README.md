@@ -1,7 +1,6 @@
 # JS-Project---Meme-Generator
 
 ## Overview
-Overview
 Welcome to the Meme Generator Web App! This simple web application will generate random memes. It's a fun and easy way to express creativity and share laughter with friends.
 
 ## Acknowledgments
